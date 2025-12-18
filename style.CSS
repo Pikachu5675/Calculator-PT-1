@@ -1,0 +1,26 @@
+#result{
+height: 100px;
+width: 100%;
+background-color: lightslategray;
+color: black;
+border: 2px solid black;
+margin-left: 10px;
+margin-right: 100px;
+margin-bottom: 20px;
+padding:20px;
+}
+
+#answer{
+text-align:right;
+}
+
+#calckeys {
+    text-align: center;
+}
+
+button{
+    height: 20px;
+    width: 30px;
+    border: 2px solid gray;
+    margin: 3px; 
+}
