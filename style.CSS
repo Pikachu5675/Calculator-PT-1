@@ -1,26 +1,25 @@
 #result{
-height: 100px;
-width: 100%;
-background-color: lightslategray;
+height: 50px;
+width: 40%;
+background-color: lightgrey;
 color: black;
 border: 2px solid black;
-margin-left: 10px;
-margin-right: 100px;
+margin-left: 10px
 margin-bottom: 20px;
-padding:20px;
+padding: 5px;
 }
 
 #answer{
-text-align:right;
+text-align: right;
 }
 
 #calckeys {
-    text-align: center;
+text-align: left;
 }
 
 button{
-    height: 20px;
-    width: 30px;
-    border: 2px solid gray;
-    margin: 3px; 
+height: 30px;
+width: 60px;
+border: 2px solid rgb(0, 0, 0);
+margin: 10px; 
 }
